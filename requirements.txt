@@ -1,0 +1,10 @@
+box2d-py
+gymnasium[all]
+matplotlib
+numpy
+opencv-python
+pandas
+scipy
+tensorboardx
+tensorflow==2.9.3
+tensorflow-gpu==2.9.3

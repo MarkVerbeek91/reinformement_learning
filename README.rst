@@ -30,11 +30,11 @@
 |
 
 ======================
-reinforcement_learning
+Reinforcement Learning
 ======================
 
 
-    rework of reinforced leanring
+    rework of reinforced learning of PyLessons.com
 
 
 A longer description of your project goes here...
