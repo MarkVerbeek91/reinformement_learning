@@ -1,5 +1,4 @@
-box2d-py
-gymnasium[all]
+gymnasium[classic-control]
 matplotlib
 numpy
 opencv-python
